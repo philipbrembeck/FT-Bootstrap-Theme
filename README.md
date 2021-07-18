@@ -13,7 +13,7 @@ FT Bootstrap Theme was created for [Bootstrap](https://getbootstrap.com) (**v5.0
 While the theme itself only comes in grey and orange, you can fully customize the experience of it as seen in this screenshot. 
 
 #### Demo
-You can see the theme in action [here](https://brembeck.me).
+You can see the theme in action [here](https://brembeck.me) or view the uncostumized project [here](https://home-5003623867.app-ionos.space).
 
 ### Usage
 Basically, you can just start right away by downloading the code or cloning this git repository, as all used tools are included. 
