@@ -1,5 +1,43 @@
-@import url(/animate.min.css);
-@import url(//fonts.googleapis.com/css?family=Open+Sans:400,300,600,700);
+/* FT Bootstrap Theme */
+/*!
+FT Bootstrap Theme - https://github.com/jokenetwork/FT-Bootstrap-Theme
+Licensed under the MIT license - http://opensource.org/licenses/MIT
+
+Copyright (c) 2016 Philip Brembeck
+*/
+
+@font-face {
+    font-family: 'Open Sans';
+    font-style: normal;
+    font-weight: 300;
+    src: url(fonts/open-sans-v20-latin-300.eot);
+    src: local(''), url(fonts/open-sans-v20-latin-300.eot?#iefix) format('embedded-opentype'), url(fonts/open-sans-v20-latin-300.woff2) format('woff2'), url(fonts/open-sans-v20-latin-300.woff) format('woff'), url(fonts/open-sans-v20-latin-300.ttf) format('truetype'), url(fonts/open-sans-v20-latin-300.svg#OpenSans) format('svg')
+}
+
+@font-face {
+    font-family: 'Open Sans';
+    font-style: normal;
+    font-weight: 400;
+    src: url(fonts/open-sans-v20-latin-regular.eot);
+    src: local(''), url(fonts/open-sans-v20-latin-regular.eot?#iefix) format('embedded-opentype'), url(fonts/open-sans-v20-latin-regular.woff2) format('woff2'), url(fonts/open-sans-v20-latin-regular.woff) format('woff'), url(fonts/open-sans-v20-latin-regular.ttf) format('truetype'), url(fonts/open-sans-v20-latin-regular.svg#OpenSans) format('svg')
+}
+
+@font-face {
+    font-family: 'Open Sans';
+    font-style: normal;
+    font-weight: 600;
+    src: url(fonts/open-sans-v20-latin-600.eot);
+    src: local(''), url(fonts/open-sans-v20-latin-600.eot?#iefix) format('embedded-opentype'), url(fonts/open-sans-v20-latin-600.woff2) format('woff2'), url(fonts/open-sans-v20-latin-600.woff) format('woff'), url(fonts/open-sans-v20-latin-600.ttf) format('truetype'), url(fonts/open-sans-v20-latin-600.svg#OpenSans) format('svg')
+}
+
+@font-face {
+    font-family: 'Open Sans';
+    font-style: normal;
+    font-weight: 700;
+    src: url(fonts/open-sans-v20-latin-700.eot);
+    src: local(''), url(fonts/open-sans-v20-latin-700.eot?#iefix) format('embedded-opentype'), url(fonts/open-sans-v20-latin-700.woff2) format('woff2'), url(fonts/open-sans-v20-latin-700.woff) format('woff'), url(fonts/open-sans-v20-latin-700.ttf) format('truetype'), url(fonts/open-sans-v20-latin-700.svg#OpenSans) format('svg')
+}
+
 * {
     margin: 0;
     padding: 0;
@@ -73,7 +111,7 @@ h3 {
     font-size: 20px;
     margin: 0;
     line-height: 24px;
-    margin-bottom: 2px!important;
+    margin-bottom: 2px !important;
     max-width: 100%;
 }
 
@@ -107,7 +145,7 @@ h3 {
 
 .buttons li a:hover {
     background: #fff;
-    color: #FF5A5F!important;
+    color: #FF5A5F !important;
     -webkit-transition: all .25s ease;
     -moz-transition: all .25s ease;
     -ms-transition: all .25s ease;
@@ -116,11 +154,11 @@ h3 {
 }
 
 #mid .buttons li a:hover {
-    color: #95a5a6!important
+    color: #95a5a6 !important
 }
 
 #last .buttons li a:hover {
-    color: #34495e!important
+    color: #34495e !important
 }
 
 input {
@@ -136,7 +174,7 @@ input {
 }
 
 #email {
-    width: 330px!important
+    width: 330px !important
 }
 
 footer {
@@ -146,7 +184,7 @@ footer {
 
 .container {
     padding-top: 38px;
-    color: #fff!important
+    color: #fff !important
 }
 
 .container a {
@@ -170,7 +208,8 @@ footer {
     outline: 0
 }
 
-#promo, .menue a {
+#promo,
+.menue a {
     color: #fff;
     outline: 0;
     -webkit-transition: all .25s ease;
@@ -180,19 +219,21 @@ footer {
     transition: all .25s ease
 }
 
-#promo, .menue a:hover {
+#promo,
+.menue a:hover {
     color: #E6E6E6;
     outline: 0
 }
 
-#promo, .menue a:active {
+#promo,
+.menue a:active {
     position: relative;
     top: 1px;
     outline: 0
 }
 
 a {
-    text-decoration: none!important;
+    text-decoration: none !important;
     outline: 0
 }
 
@@ -246,20 +287,25 @@ a {
 
 @media screen and (max-width: 1056px) {
     .cons {
-        height: 640px!important
+        height: 640px !important
     }
+
     .cons .text {
         width: 80%
     }
+
     .container {
         text-align: center;
     }
+
     .tablet_show {
         display: block;
     }
+
     .tablet_hide {
         display: none;
     }
+
     .menue {
         padding-right: 60px;
     }
@@ -275,13 +321,16 @@ a {
         left: auto;
         padding: 40px 0 80px
     }
+
     .mobile_show {
         display: block;
     }
+
     .mobile_hide {
         display: none;
     }
+
     .menue {
-         display:none;
+        display: none;
     }
 }
