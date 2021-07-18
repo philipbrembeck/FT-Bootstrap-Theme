@@ -1,0 +1,56 @@
+# FT Bootstrap Theme
+
+# Remove file extenions
+RewriteEngine on
+RewriteCond %{REQUEST_FILENAME} !-f
+RewriteRule ^([^\.]+)$ $1.php [NC,L]
+RewriteRule ^([^\.]+)$ $1.html [NC,L]
+
+# Enable SSL per default
+RewriteCond %{HTTPS} !=on
+RewriteRule ^ https://%{HTTP_HOST}%{REQUEST_URI} [L,R=301]
+
+# Errordocs
+ErrorDocument 403 /404.html
+ErrorDocument 404 /404.html
+
+# GZIP Compress
+<ifModule mod_gzip.c>
+ mod_gzip_on Yes
+ mod_gzip_dechunk Yes
+ mod_gzip_item_include file .(html?|txt|css|js|php|pl)$
+ mod_gzip_item_include handler ^cgi-script$
+ mod_gzip_item_include mime ^text/.*
+ mod_gzip_item_include mime ^application/x-javascript.*
+ mod_gzip_item_exclude mime ^image/.*
+ mod_gzip_item_exclude rspheader ^Content-Encoding:.*gzip.*
+ </ifModule>
+ 
+ <IfModule mod_deflate.c>
+ AddOutputFilterByType DEFLATE text/plain
+ AddOutputFilterByType DEFLATE text/html
+ AddOutputFilterByType DEFLATE text/xml
+ AddOutputFilterByType DEFLATE text/css
+ AddOutputFilterByType DEFLATE application/xml
+ AddOutputFilterByType DEFLATE application/xhtml+xml
+ AddOutputFilterByType DEFLATE application/rss+xml
+ AddOutputFilterByType DEFLATE application/javascript
+ AddOutputFilterByType DEFLATE application/x-javascript
+ </IfModule>
+
+# Cache 
+<IfModule mod_expires.c>
+ExpiresActive On
+ExpiresDefault "access 60 seconds"
+ExpiresByType image/jpg "access plus 1 month"
+ExpiresByType image/jpeg "access plus 1 month"
+ExpiresByType image/gif "access plus 1 month"
+ExpiresByType image/png "access plus 1 month"
+ExpiresByType image/svg "access plus 1 month"
+ExpiresByType image/ico "access plus 1 month"
+ExpiresByType text/css "access 1 month"
+ExpiresByType text/svg "access 1 month"
+ExpiresByType text/ttf "access 1 month"
+ExpiresByType text/javascript "access 1 month"
+ExpiresByType application/javascript "access 1 month"
+</IfModule>
