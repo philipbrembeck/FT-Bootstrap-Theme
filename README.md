@@ -1,8 +1,9 @@
 # FT Bootstrap Theme
-![enter image description here](https://img.shields.io/github/languages/top/jokenetwork/FT-Bootstrap-Theme?style=flat-square)
-![enter image description here](https://img.shields.io/badge/CSS-v3-blue?style=flat-square)
-![enter image description here](https://img.shields.io/github/license/jokenetwork/FT-Bootstrap-Theme?style=flat-square)
-![enter image description here](https://img.shields.io/badge/HTML-v5-red?style=flat-square)
+!(https://img.shields.io/github/languages/top/jokenetwork/FT-Bootstrap-Theme?style=flat-square)
+!(https://img.shields.io/badge/CSS-v3-blue?style=flat-square)
+!(https://img.shields.io/github/license/jokenetwork/FT-Bootstrap-Theme?style=flat-square)
+!(https://img.shields.io/badge/HTML-v5-red?style=flat-square)
+
 A simple Bootstrap theme for one-page/hero sites, which looks and feels great on mobile and on desktop, built with mobile-first in mind.
 
 FT Bootstrap Theme was created for [Bootstrap](https://getbootstrap.com) (**v5.0.2**+, but it's downwards compatible until **v3.3.4**).
