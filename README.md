@@ -1,4 +1,5 @@
-![FT Theme Logo](https://jokenetwork.de/git/img/FTTheme.svg =250x)
+![FT Theme Logo](https://jokenetwork.de/git/img/FTTheme.svg)
+<img src="https://jokenetwork.de/git/img/FTTheme.svg" width="200" alt="FT Theme Logo">
 # FT Bootstrap Theme
 ![Top Languages](https://img.shields.io/github/languages/top/jokenetwork/FT-Bootstrap-Theme?style=flat-square)
 ![CSS Version](https://img.shields.io/badge/CSS-v3-blue?style=flat-square)
