@@ -3,7 +3,7 @@
 FT Bootstrap Theme - https://github.com/jokenetwork/FT-Bootstrap-Theme
 Licensed under the MIT license - http://opensource.org/licenses/MIT
 
-Copyright (c) 2016 Philip Brembeck
+Copyright (c) 2021 Philip Brembeck
 */
 
 @font-face {
@@ -285,6 +285,7 @@ a {
     padding-top: 50px;
 }
 
+/* Mobile optimization */
 @media screen and (max-width: 1056px) {
     .cons {
         height: 640px !important
