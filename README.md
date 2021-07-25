@@ -30,6 +30,10 @@ or via HTTPS:
 
     https://github.com/jokenetwork/FT-Bootstrap-Theme.git
 
+### License
+FT Bootstrap Theme is licensed under the MIT License, (C) 2021 Philip Brembeck
+The copy of the license, found under "LICENSE" in the main directory of this project, shall not be deleted nor edited, but iuncluded in every copy. 
+
 ### Credits
 
 This Theme uses:
