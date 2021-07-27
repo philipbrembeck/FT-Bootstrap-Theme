@@ -8,7 +8,7 @@
 
 A simple Bootstrap theme for one-page/hero sites, which looks and feels great on mobile and on desktop, built with mobile-first in mind.
 
-FT Bootstrap Theme was created for [Bootstrap](https://getbootstrap.com) (**v5.0.2**+, but it's downwards compatible until **v3.3.4**).
+FT Bootstrap Theme was created for [Bootstrap](https://getbootstrap.com) (**v5.0.2**+, but it's downwards compatible until **v3.3.4**) and while it is recommended, you don't even have to include Bootstrap to use this theme (It works stand-alone).
 
 ### Appearance
 ![Fully customizable appearance on mobile as well as on desktop.](https://jokenetwork.de/git/img/screenshot.png)
@@ -31,7 +31,8 @@ or via HTTPS:
     https://github.com/jokenetwork/FT-Bootstrap-Theme.git
 
 ### License
-FT Bootstrap Theme is licensed under the MIT License, (C) 2021 Philip Brembeck
+FT Bootstrap Theme is licensed under the MIT License, (C) 2021 Philip Brembeck.
+
 The copy of the license, found under "LICENSE" in the main directory of this project, shall not be deleted nor edited, but iuncluded in every copy. 
 
 ### Credits
