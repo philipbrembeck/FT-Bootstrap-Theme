@@ -1,4 +1,4 @@
-![FT Theme Logo](https://jokenetwork.de/git/img/FTTheme.svg)
+![FT Theme Logo](logo.svg)
 
 # FT Bootstrap Theme
 ![Top Languages](https://img.shields.io/github/languages/top/jokenetwork/FT-Bootstrap-Theme?style=flat-square)
@@ -11,7 +11,7 @@ A simple Bootstrap theme for one-page/hero sites, which looks and feels great on
 FT Bootstrap Theme was created for [Bootstrap](https://getbootstrap.com) (**v5.0.2**+, but it's downwards compatible until **v3.3.4**) and while it is recommended, you don't even have to include Bootstrap to use this theme (It works stand-alone).
 
 ### Appearance
-![Fully customizable appearance on mobile as well as on desktop.](https://jokenetwork.de/git/img/screenshot.png)
+![Fully customizable appearance on mobile as well as on desktop.](hero.png)
 While the theme itself only comes in grey and orange, you can fully customize the experience of it as seen in this screenshot. 
 
 #### Demo
