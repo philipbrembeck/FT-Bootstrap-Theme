@@ -41,7 +41,7 @@ The main.scss-file to compile can be found in `/assets/css/main.scss`.
   
   ```scss
     // _base.scss
-    ~~@import url(bootstrap.min.css);~~
+    <del>@import url(bootstrap.min.css);</del>
     @import url(animate.min.css);
   ```
 </details>
