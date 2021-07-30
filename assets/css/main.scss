@@ -1,0 +1,8 @@
+// Reset using Normalize
+@import "_globals/normalize";
+
+// Set variables and reusable mixins
+@import "_globals/mixins";
+
+// Import typical layout sass modules
+@import "_partials/base";
