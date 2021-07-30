@@ -37,9 +37,10 @@ The main-stylesheet is located at `/assets/css/main.css`, while its base is loca
 The main.scss-file to compile can be found in `/assets/css/main.scss`.
 
 <details>
-  <summary>**See here for the Stand-Alone Version**</summary>
+  <summary><b>See here for the Stand-Alone Version</b></summary>
   
   ```scss
+    // _base.scss
     ~~@import url(bootstrap.min.css);~~
     @import url(animate.min.css);
   ```
