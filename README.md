@@ -19,7 +19,7 @@ FT Bootstrap Theme was created for [Bootstrap](https://getbootstrap.com) (**v5.0
 
 </div>
 
-## 💻 Installation 
+## 🖥 Installation 
 Basically, you can just start right away by downloading the code or cloning this git repository, as all used tools are included. 
 
 Clone this repository with:
@@ -30,7 +30,7 @@ or via HTTPS:
 
     https://github.com/jokenetwork/FT-Bootstrap-Theme.git
 
-## 👉 Usage 
+## 👨🏼‍💻 Usage 
 I'd recommend to use [Sublime Text](https://www.sublimetext.com) for editing files directly within this project and [PrePros](https://prepros.io) to compile the scss-files (if you want to change them).
 
 The main-stylesheet is located at `/assets/css/main.css`, while its base is located at `/assets/css/_partials/_base.scss` (animate.css & bootstrap.css includes are inside here too!). 
@@ -46,7 +46,7 @@ The main.scss-file to compile can be found in `/assets/css/main.scss`.
   ```
 </details>
 
-## 👉 Demo
+## 💾 Demo
 You can see the theme in action (with additional changes) [here](https://brembeck.me) or view the uncostumized project [here](https://home-5003623867.app-ionos.space/example.html).
 
 ## 👉 What's included
