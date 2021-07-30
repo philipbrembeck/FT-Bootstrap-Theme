@@ -23,13 +23,13 @@ FT Bootstrap Theme was created for [Bootstrap](https://getbootstrap.com) (**v5.0
 Basically, you can just start right away by downloading the code or cloning this git repository, as all used tools are included. 
 
 Clone this repository with:
-
+```console
     gh repo clone jokenetwork/FT-Bootstrap-Theme
-
+ ```
 or via HTTPS:
-
+```console
     https://github.com/jokenetwork/FT-Bootstrap-Theme.git
-
+ ```
 ## 👨🏼‍💻 Usage 
 I'd recommend to use [Sublime Text](https://www.sublimetext.com) for editing files directly within this project and [PrePros](https://prepros.io) to compile the scss-files (if you want to change them).
 
