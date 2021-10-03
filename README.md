@@ -16,7 +16,7 @@ A simple Bootstrap theme for one-page/hero sites, which looks and feels great on
 
 ![Fully customizable appearance on mobile as well as on desktop.](hero.png)
 
-FT Bootstrap Theme was created for [Bootstrap](https://getbootstrap.com) (**v5.0.2**+, but it's downwards compatible until **v3.3.4**) and while it is recommended, you don't even have to include Bootstrap to use this theme (It works stand-alone).
+FT Bootstrap Theme was created for [Bootstrap](https://getbootstrap.com) (**v5.1.1** -> downwards compatible until **v3.3.4**) and while it is recommended, you don't even have to include Bootstrap to use this theme (It works stand-alone).
 
 </div>
 
@@ -78,7 +78,7 @@ The copy of the license, found under "LICENSE" in the main directory of this pro
 
 This Theme uses:
 
- - [Bootstrap v5.0.2](https://getbootstrap.com)
+ - [Bootstrap v5.1.1](https://getbootstrap.com)
  - [Normalize.css](https://necolas.github.io/normalize.css/) by Nicolas Gallagher and Jonathan Neal
  -  [animate.css](http://animate.style) by [Dan Eden](https://daneden.me)
  - Google Fonts [Open Sans](https://fonts.google.com/specimen/Open+Sans) by [Steve Matteson](https://fonts.google.com/specimen/Open+Sans?query=Steve%20Matteson)
