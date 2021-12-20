@@ -3,7 +3,7 @@
 <img src="logo.png" alt="FTTheme Logo" width="128">
 
 # ft theme for bootstrap
-
+[![Status: Inactvie](https://jokenetwork.de/assets/img/gitstatus/inactive.svg)](https://jokenetwork.de/badges)
 ![Top Languages](https://img.shields.io/github/languages/top/jokenetwork/FT-Bootstrap-Theme?style=flat-square)
 ![CSS Version](https://img.shields.io/badge/CSS-v3-blue?style=flat-square)
 ![HTML Version](https://img.shields.io/badge/HTML-v5-red?style=flat-square)
