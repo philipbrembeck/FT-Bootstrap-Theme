@@ -33,14 +33,15 @@ pre {
 }
 
 a {
-    background-color: transparent
+    background-color: transparent;
+    text-decoration: none !important;
+    outline: 0;
 }
 
 abbr[title] {
     border-bottom: none;
-    text-decoration: underline;
     -webkit-text-decoration: underline dotted;
-    text-decoration: underline dotted
+    text-decoration: underline dotted;
 }
 
 b,
@@ -403,11 +404,6 @@ footer {
 .menue a:active {
     position: relative;
     top: 1px;
-    outline: 0
-}
-
-a {
-    text-decoration: none !important;
     outline: 0
 }
 
