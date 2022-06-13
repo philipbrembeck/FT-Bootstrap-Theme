@@ -70,7 +70,7 @@ You can see the theme in action (with additional changes) [here](https://brembec
     example.html
  
 ## 👩‍⚖️ License
-FT Bootstrap Theme is licensed under the MIT License, © 2021 Philip Brembeck.
+FT Bootstrap Theme is licensed under the MIT License, © 2022 Philip Brembeck.
 
 The copy of the license, found under "LICENSE" in the main directory of this project, shall not be deleted nor edited, but iuncluded in every copy. 
 
