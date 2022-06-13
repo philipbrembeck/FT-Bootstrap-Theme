@@ -78,7 +78,7 @@ The copy of the license, found under "LICENSE" in the main directory of this pro
 
 This Theme uses:
 
- - [Bootstrap v5.1.1](https://getbootstrap.com)
+ - [Bootstrap v5.2.0](https://getbootstrap.com)
  - [Normalize.css](https://necolas.github.io/normalize.css/) by Nicolas Gallagher and Jonathan Neal
  -  [animate.css](http://animate.style) by [Dan Eden](https://daneden.me)
  - Google Fonts [Open Sans](https://fonts.google.com/specimen/Open+Sans) by [Steve Matteson](https://fonts.google.com/specimen/Open+Sans?query=Steve%20Matteson)
